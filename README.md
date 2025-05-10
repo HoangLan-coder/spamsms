@@ -1,2 +1,2 @@
 # spamsms
-tool-spam-sms-not-fast
+but not fast 
